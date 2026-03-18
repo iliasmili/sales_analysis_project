@@ -80,6 +80,4 @@ sales_analysis_project/
 
 ---
 
-## 👤 Author
-Your Name  
-[LinkedIn Profile](#) | [GitHub Profile](#)
+
